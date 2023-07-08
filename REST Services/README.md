@@ -1,0 +1,1 @@
+This app (using SpringBoot and Postgressql database) contains REST services with comunicationg with server data. The app allows the client to add,remove,update players and games in a db using http requests such as get,post,put,delete.
